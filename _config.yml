@@ -31,7 +31,7 @@ navbar-links:
    # - Getting started: "getstarted"
    # - Featured users: "featured-users"
     #- Project page: "https://github.com/daattali/beautiful-jekyll#readme"
- #About me / contact: "aboutme"
+  About me / contact: "aboutme"
  # Support me: "http://deanattali.com/aboutme/#feed-meeee"
 
 # --- Footer options --- #
