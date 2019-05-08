@@ -13,10 +13,10 @@ title: Dr. Margarita Rincón
 ### Profiles
 <!---* [CV](resources/CV.pdf)--->
 * [ICMAN/CSIC Profile](http://www.icman.csic.es/es/personal/margarita-rinconicman-csic-es)
-* [ResearchGate](https://www.researchgate.net/profile/Margarita_Rincon_Hidalgo) / [Orcid](http://orcid.org/0000-0002-0370-9299) / [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6Ms6PlUHUMCU1g3k5dW5TWGJoAGh1AVQIXNdSyYdfnKdnwjZiJDZV94H8qNWr5Uqf7OSbdA-8_zWBpans5Wd-rPxO7jg&user=avESRpAAAAAJ) 
+* [ResearchGate](https://www.researchgate.net/profile/Margarita_Rincon_Hidalgo) / [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6Ms6PlUHUMCU1g3k5dW5TWGJoAGh1AVQIXNdSyYdfnKdnwjZiJDZV94H8qNWr5Uqf7OSbdA-8_zWBpans5Wd-rPxO7jg&user=avESRpAAAAAJ) 
 <!---*/ [Microsoft Academic Search](http://academic.research.microsoft.com/Author/34361005/derek-h-ogle) / [Academia.edu](http://northland.academia.edu/DerekOgle)--->
 
 ### Education
-* Ph.D (1996), Fisheries & Wildlife, [University of Minnesota](http://fwcb.cfans.umn.edu/)
-* M.Sc (1992), Fisheries & Wildlife, [University of Minnesota](http://fwcb.cfans.umn.edu/)
-* B.Sc (1989), Environmental Studies, [Northland College](http://www.northland.edu/)
+* Ph.D (2015), Physics and Mathematics (Biomathematics enphasis), [University of Granada](https://www.ugr.es/en/)
+* M.Sc (2008), Physics and Mathematics (Biomathematics enphasis), [University of Granada](https://www.ugr.es/en/)
+* B.Sc (2006), Mathematics, [Universidad Nacional de Colombia](http://unal.edu.co/)
